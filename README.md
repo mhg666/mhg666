@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mhg666/mhg666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m mahange
+- 👀 I’m interested in singing, dancing, rapping and basketball
+- 🌱 I’m currently learning c++ related technologies
+- 💞️ I am looking for internship opportunities, daily in  or summer and winter in Beijing, Shanghai, Guangzhou, Shenzhen， Wuhan and Hangzhou.
+- 📫 How to reach me？My QQ : 838854435  My Blog : [我的博客](https://mhg666.github.io/) My Leetcode ：[我的力扣主页](https://leetcode.cn/u/liu-nian-3hs/)
